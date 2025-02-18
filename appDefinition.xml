@@ -1,0 +1,15 @@
+<appDefinition>
+   <appId>pfe</appId>
+   <id>pfe</id>
+   <version></version>
+   <name>pfe</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
