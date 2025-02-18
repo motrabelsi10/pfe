@@ -1,0 +1,15 @@
+<appDefinition>
+   <appId>app</appId>
+   <id>app</id>
+   <version></version>
+   <name>app</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+</appDefinition>
