@@ -1,6 +1,7 @@
 {
     "elements": [{
         "elements": [{
+<<<<<<< HEAD
             "elements": [
                 {
                     "className": "org.joget.apps.form.lib.TextField",
@@ -69,6 +70,30 @@
                     }
                 }
             ],
+=======
+            "elements": [{
+                "className": "org.joget.apps.form.lib.TextField",
+                "properties": {
+                    "requiredSanitize": "",
+                    "maxlength": "",
+                    "validator": {
+                        "className": "",
+                        "properties": {}
+                    },
+                    "label": "a",
+                    "disableIncrementDecrementArrow": "",
+                    "readonly": "",
+                    "size": "",
+                    "workflowVariable": "",
+                    "style": "",
+                    "id": "a",
+                    "placeholder": "",
+                    "value": "",
+                    "readonlyLabel": "",
+                    "storeNumeric": ""
+                }
+            }],
+>>>>>>> app1/app_1
             "className": "org.joget.apps.form.model.Column",
             "properties": {"width": "100%"}
         }],
